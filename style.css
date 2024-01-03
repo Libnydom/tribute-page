@@ -1,0 +1,11 @@
+#img-div{
+  backgroung: white;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+justify-content: center;
+
+}
